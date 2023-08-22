@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Trista
+*Hello!    Welcome to my GitHub Profile!*
+
+
+**About Me**
+- 👋 I’m Trista
 - 🌱 I’m a customer solution analyst for a well-known FMCG company
 - 💞️ I love retail, ecommerce and learning something new!
 - 👀 I’m interested in Python, Data analysis, Data Visualization, Machine Learing etc
